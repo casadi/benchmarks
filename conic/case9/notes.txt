@@ -1,0 +1,2 @@
+System arises from faulty regularize + regularize_margin in SQPMethod:
+The exact Hessian was missing diagonal entries; no regularization was performed on them
